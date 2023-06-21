@@ -1,4 +1,6 @@
-# [Ahmed Srebrenica]
+Hi there 👋
+
+Welcome to my github profile!
 
 ## About Me
 
