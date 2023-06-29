@@ -10,15 +10,15 @@ I'm an AWS enthusiast and I have a keen interest in learning and exploring the d
 
 Here are some of my skills:
 
-AWS Cloud Platform ☁️
-Continuous Integration/Continuous Deployment (CI/CD) pipelines 🔄
-Packer for building machine images 📦
-Docker for containerization 🐳
-Jenkins for continuous integration and deployment automation 🚀
-Infrastructure as Code (IaC) using tools like Terraform or CloudFormation 🏗️
-Configuration management tools like Ansible and Vagrant ⚙️
-Scripting and automation with languages like Python, Bash, or PowerShell 🐍💻
-Version control with Git 🗃️
+- AWS Cloud Platform ☁️
+- Continuous Integration/Continuous Deployment (CI/CD) pipelines 🔄
+- Packer for building machine images 📦
+- Docker for containerization 🐳
+- Jenkins for continuous integration and deployment automation 🚀
+- Infrastructure as Code (IaC) using tools like Terraform or CloudFormation 🏗️
+- Configuration management tools like Ansible and Vagrant ⚙️
+- Scripting and automation with languages like Python, Bash, or PowerShell 🐍💻
+- Version control with Git 🗃️
 
 ### Projects
 
