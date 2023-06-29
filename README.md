@@ -21,7 +21,8 @@ I'm an AWS enthusiast and I have a keen interest in learning and exploring the d
 If you have any notable projects related to DevOps, provide a list with brief descriptions. Include links to their repositories or live deployments. For example:
 
 - **ahmed-srebrenica-devops-mentorship** This is a repository that contains everything I worked on during the mentorship program organized by AWS Community Bosnia. I have several completed projects here. [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship/tree/main)
-- **guessnumber:** Just simple Python game [guess-number](https://github.com/Srebreni3/guessnumber)
+- **IaC-templates** This is a repository that cointains `Infrastructure as code` templates
+- **guessnumber** Just simple Python game [guess-number](https://github.com/Srebreni3/guessnumber)
 
 ### Contact Me
 
@@ -29,6 +30,6 @@ Email: ahmedsrebrenica33@gmail.com
 
 LinkedIn: https://ba.linkedin.com/in/ahmedsrebrenica
 
-Feel free to reach out if you have any questions, suggestions, or just want to connect! 📩✨
+Feel free to reach out if you have any questions, or suggestions, or just want to connect! 📩✨
 
 
