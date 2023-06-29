@@ -22,9 +22,9 @@ Here are some of my skills:
 
 ### Projects
 
-- [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects.(https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship/tree/main)
-- [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that cointains `Infrastructure as code` that I've developed 
-- [guessnumber](https://github.com/Srebreni3/guessnumber) Just simple Python game [guess-number](https://github.com/Srebreni3/guessnumber)
+- [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects.
+- [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that cointains `Infrastructure as code` that I've developed.
+- [guessnumber](https://github.com/Srebreni3/guessnumber) Just simple Python game.
 
 Feel free to explore them and provide any feedback or suggestions!
 
