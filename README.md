@@ -33,7 +33,7 @@ You can reach out to me through the following channels:
 
 Email: ahmedsrebrenica33@gmail.com 📩
 
-LinkedIn: Connect with me on LinkedIn 💼
+LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedsrebrenica/) 💼
 
 Feel free to get in touch if you have any questions, suggestions, or just want to connect! 📩✨
 
