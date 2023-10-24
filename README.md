@@ -25,6 +25,7 @@ Here are some of my skills:
 - [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects.
 - [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that cointains `Infrastructure as code` that I've developed.
 - [guessnumber](https://github.com/Srebreni3/guessnumber) Just simple Python game.
+- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for Docker testing
 
 Feel free to explore them and provide any feedback or suggestions!
 
