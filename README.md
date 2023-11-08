@@ -4,7 +4,7 @@ Welcome to my github profile!
 
 ### About Me
 
-I'm an AWS enthusiast and I have a keen interest in learning and exploring the different AWS services and their use cases. 😊
+I'm an AWS enthusiast and I have a strong interest in learning and exploring the different AWS services and their use cases. 😊
 
 ### Skills
 
@@ -23,16 +23,18 @@ Here are some of my skills:
 ### Projects
 
 - [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects.
-- [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that cointains `Infrastructure as code` that I've developed.
+- [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that contains `Infrastructure as code` templates that I've developed.
 - [guessnumber](https://github.com/Srebreni3/guessnumber) Just simple Python game.
-- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for Docker testing
+- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for testing.
+- [static-website](https://github.com/srebreni3/static-website) Simple static website for AWS S3.
 
 Feel free to explore them and provide any feedback or suggestions!
 
-Contact Me
+### Contact Me
+
 You can reach out to me through the following channels:
 
-Email: ahmedsrebrenica33@gmail.com 📩
+Email: [ahmedsrebrenica33@gmail.com](ahmedsrebrenica33@gmail.com) 📩
 
 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedsrebrenica/) 💼
 
