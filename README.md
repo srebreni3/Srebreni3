@@ -5,6 +5,7 @@ Welcome to my github profile!
 ### About Me
 
 I'm an AWS enthusiast and I have a strong interest in learning and exploring the different AWS services and their use cases. 😊
+I have obtained two AWS certifications: Cloud Practitioner and Solutions Architect - Associate, which demonstrate my proficiency and expertise in cloud computing. ☁️📙
 
 ### Skills
 
