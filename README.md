@@ -15,7 +15,7 @@ Here are some of my skills:
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines 🔄
 - Packer for building machine images 📦
 - Docker for containerization 🐳
-- Jenkins for continuous integration and deployment automation 🚀
+- Jenkins and GitHub Actions for continuous integration and deployment automation 🚀
 - Infrastructure as Code (IaC) using tools like Terraform or CloudFormation 🏗️
 - Configuration management tools like Ansible and Vagrant ⚙️
 - Scripting and automation with languages like Python, Bash, or PowerShell 🐍💻
