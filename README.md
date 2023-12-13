@@ -38,13 +38,13 @@ Feel free to explore them and provide any feedback or suggestions! 🔍👀📝�
 
 You can reach out to me through the following channels:
 
-Email: [ahmedsrebrenica33@gmail.com](ahmedsrebrenica33@gmail.com) 📩
+- [ahmedsrebrenica33@gmail.com](ahmedsrebrenica33@gmail.com) 📩
 
-LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedsrebrenica/) 💼
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedsrebrenica/) 💼
 
-X: Follow me on [X (Twitter)](https://twitter.com/srebreni3) 🐦
+- Follow me on [X (Twitter)](https://twitter.com/srebreni3) 🐦
 
-Medium: Follow me on [Medium](https://medium.com/@srebreni3) 📝
+- Follow me on [Medium](https://medium.com/@srebreni3) 📝
 
 Feel free to get in touch if you have any questions, suggestions, or just want to connect! 📩✨
 
