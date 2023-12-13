@@ -48,4 +48,5 @@ You can reach out to me through the following channels:
 
 Feel free to get in touch if you have any questions, suggestions, or just want to connect! 📩✨
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=srebreni3&theme=great-gatsby&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
