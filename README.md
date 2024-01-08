@@ -26,7 +26,8 @@ Here are some of my skills:
 - [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects. 🌟🛠️🎓
 - [aws-to-slack-notifications](https://github.com/srebreni3/aws-to-slack-notifications) This is a repository containing Node.js code for a Lambda function configured with EventBridge. Whenever the EC2 instance state changes, a notification is sent to a Slack channel. 🚀📨
 - [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that contains `Infrastructure as code` templates that I've developed. 🏗️📝
-- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for testing Docker that runs on both EC2 and Fargate. 🧪🐳
+- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for various testing purposes. 🧪🐳
+- [simple-maven-java-app](https://github.com/srebreni3/simple-maven-java-app) Simple Maven Java application for various testing purposes.
 - [static-website](https://github.com/srebreni3/static-website) Simple static website for AWS S3 + CloudFront. 🌐📄
 - [amazon-lightsail-wordpress](https://github.com/srebreni3/amazon-lightsail-wordpress) Setting Up a WordPress Site in 5 Minutes on AWS. 🌟🔧🖥️
 - [mr-robot](https://github.com/srebreni3/mr-robot) Hello, friend... 👋🤖
