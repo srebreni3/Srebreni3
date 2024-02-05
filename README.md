@@ -39,7 +39,7 @@ Feel free to explore them and provide any feedback or suggestions! 🔍👀📝�
 
 You can reach out to me through the following channels:
 
-- [ahmedsrebrenica33@gmail.com](ahmedsrebrenica33@gmail.com) 📩
+- [ahmedsrebrenica.com](https://www.ahmedsrebrenica.com/) 📩🕸️
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedsrebrenica/) 💼
 
