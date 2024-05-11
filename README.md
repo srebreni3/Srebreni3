@@ -4,8 +4,9 @@ Welcome to my GitHub profile! 👋🌟🔗
 
 ### About Me 🧑📖
 
-I'm an AWS enthusiast and I have a strong interest in learning and exploring the different AWS services and their use cases. 😊
+I'm an AWS enthusiast and I have a strong interest in learning and exploring the different Cloud services and their use cases. 😊
 I have obtained two AWS certifications: Cloud Practitioner and Solutions Architect - Associate, which demonstrate my proficiency and expertise in cloud computing. ☁️📙
+I was accepted as a builder on the AWS Community Builder program. 🔸👷‍♂️
 
 ### Skills 🛠️🧠
 
@@ -25,6 +26,7 @@ Here are some of my skills:
 
 - [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects. 🌟🛠️🎓
 - [aws-to-slack-notifications](https://github.com/srebreni3/aws-to-slack-notifications) This is a repository containing Node.js code for a Lambda function configured with EventBridge. Whenever the EC2 instance state changes, a notification is sent to a Slack channel. 🚀📨
+- [wordpress-docker-compose](https://github.com/srebreni3/wordpress-docker-compose) In this repository, I have docker-compose.yml to create a WordPress site on localhost. 👷‍♂️
 - [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that contains `Infrastructure as code` templates that I've developed. 🏗️📝
 - [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for various testing purposes. 🧪🐳
 - [simple-maven-java-app](https://github.com/srebreni3/simple-maven-java-app) Simple Maven Java application for various testing purposes.
