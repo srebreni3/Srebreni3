@@ -4,8 +4,8 @@ Welcome to my GitHub profile! 👋🌟🔗
 
 ### About Me 🧑📖
 
-I'm an AWS enthusiast and I have a strong interest in learning and exploring the different Cloud services and their use cases. 😊
-I have obtained two AWS certifications: Cloud Practitioner and Solutions Architect - Associate, which demonstrate my proficiency and expertise in cloud computing. ☁️📙
+I'm a Cloud and Security enthusiast and I have a strong interest in learning and exploring the different Cloud services and their use cases. 😊
+I have obtained two cloud certifications: AWS Solutions Architect Associate and Microsoft Azure AZ-900, demonstrating my proficiency and expertise in different cloud providers. ☁️📙📘
 I was accepted as a builder on the AWS Community Builder program. 🔸👷‍♂️
 
 ### Skills 🛠️🧠
@@ -13,13 +13,13 @@ I was accepted as a builder on the AWS Community Builder program. 🔸👷‍♂
 Here are some of my skills:
 
 - AWS Cloud Platform ☁️
+- Microsoft Azure and Microsoft AD ☁️
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines 🔄
 - Image builder tools 📦
 - Containerization (Docker) 🐳
 - Infrastructure as Code (IaC) 🏗️
 - Configuration management ⚙️
 - Scripting and automation 🐍💻
-- Kubernetes ⚓
 - Version control (Git) 🗃️
 
 ### Projects 🏗️📂
@@ -48,6 +48,8 @@ You can reach out to me through the following channels:
 - Follow me on [X (Twitter)](https://twitter.com/srebreni3) 🐦
 
 - Follow me on [Medium](https://medium.com/@srebreni3) 📝
+
+- Follow me on [BlueSky](https://bsky.app/profile/srebreni3.bsky.social) 🔵
 
 Feel free to get in touch if you have any questions, or suggestions, or just want to connect! 📩✨
 
