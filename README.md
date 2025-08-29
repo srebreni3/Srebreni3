@@ -4,38 +4,10 @@ Welcome to my GitHub profile! 👋🌟🔗
 
 ### About Me 🧑📖
 
-I'm a Cloud and Security enthusiast and I have a strong interest in learning and exploring the different Cloud services and their use cases. 😊
-I have obtained two cloud certifications: AWS Solutions Architect Associate and Microsoft Azure AZ-900, demonstrating my proficiency and expertise in different cloud providers. ☁️📙📘
-I was accepted as a builder on the AWS Community Builder program. 🔸👷‍♂️
+I'm a SecOps/DevOps engineer, working for Unscheduled Pods Company located in Belgrade, Serbia. 
+I have obtained five cloud certifications: AWS Security Specialty 🟠, AWS Solutions Architect Associate 🟠, Professional Cloud Architect 🔴, Associate Cloud Engineer 🔴, and Microsoft Azure AZ-900 🔵, demonstrating my proficiency and expertise in all main cloud providers. ☁️📙📕📘
+I am also an AWS Community Builder - 2nd year. 🔸👷‍♂️
 
-### Skills 🛠️🧠
-
-Here are some of my skills:
-
-- AWS Cloud Platform ☁️
-- Microsoft Azure and Microsoft AD ☁️
-- Continuous Integration/Continuous Deployment (CI/CD) pipelines 🔄
-- Image builder tools 📦
-- Containerization (Docker) 🐳
-- Infrastructure as Code (IaC) 🏗️
-- Configuration management ⚙️
-- Scripting and automation 🐍💻
-- Version control (Git) 🗃️
-
-### Projects 🏗️📂
-
-- [ahmed-srebrenica-devops-mentorship](https://github.com/Srebreni3/ahmed-srebrenica-devops-mentorship) This repository contains everything I worked on during the mentorship program organized by AWS Community Bosnia. It includes several completed projects. 🌟🛠️🎓
-- [aws-to-slack-notifications](https://github.com/srebreni3/aws-to-slack-notifications) This is a repository containing Node.js code for a Lambda function configured with EventBridge. Whenever the EC2 instance state changes, a notification is sent to a Slack channel. 🚀📨
-- [wordpress-docker-compose](https://github.com/srebreni3/wordpress-docker-compose) In this repository, I have docker-compose.yml to create a WordPress site on localhost. 👷‍♂️
-- [IaC-templates](https://github.com/Srebreni3/IaC-templates) This is a repository that contains `Infrastructure as code` templates that I've developed. 🏗️📝
-- [simple-nodejs-app](https://github.com/srebreni3/simple-nodejs-app) Simple Node.js application for various testing purposes. 🧪🐳
-- [simple-maven-java-app](https://github.com/srebreni3/simple-maven-java-app) Simple Maven Java application for various testing purposes.
-- [static-website](https://github.com/srebreni3/static-website) Simple static website for AWS S3 + CloudFront. 🌐📄
-- [amazon-lightsail-wordpress](https://github.com/srebreni3/amazon-lightsail-wordpress) Setting Up a WordPress Site in 5 Minutes on AWS. 🌟🔧🖥️
-- [mr-robot](https://github.com/srebreni3/mr-robot) Hello, friend... 👋🤖
-- [guessnumber](https://github.com/Srebreni3/guessnumber) Just simple Python game. 🎲🐍
-
-Feel free to explore them and provide any feedback or suggestions! 🔍👀📝🗣️👍
 
 ### Contact Me 📧📞🤝
 
