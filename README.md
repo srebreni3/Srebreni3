@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👋🌟🔗
 ### About Me 🧑📖
 
 I'm a SecOps/DevOps engineer, working for Unscheduled Pods Company located in Belgrade, Serbia. 
-I have obtained five cloud certifications: AWS Security Specialty 🟠, AWS Solutions Architect Associate 🟠, Professional Cloud Architect 🔴, Associate Cloud Engineer 🔴, and Microsoft Azure AZ-900 🔵, demonstrating my proficiency and expertise in all main cloud providers. ☁️📙📕📘
+I have obtained five cloud certifications: AWS Security Specialty 🟠, AWS Solutions Architect Associate 🟠, AWS Cloud Practitioner 🟠, Professional Cloud Architect 🔴, Associate Cloud Engineer 🔴, and Microsoft Azure AZ-900 🔵, demonstrating my proficiency and expertise in all main cloud providers. ☁️📙📕📘
 I am also an AWS Community Builder - 2nd year. 🔸👷‍♂️
 
 
